@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://openajax.org/metadata" spec="1.0" id="tag:adobe.com,2012-03:edge:oam:compid:EDGE-434326268" name="Paris" version="1">
+
+  <description type="text/html"><![CDATA[Widget Exported from Adobe Edge]]></description>
+  <category name="Adobe Edge Animation"/>
+
+  <remarks>Compatible with: InDesign CS6, Dreamweaver</remarks>
+
+  <icon src="images/Poster.png" width="480" height="800" />
+
+  <require type="other" src="Paris.html" />
+
+  <require type="javascript" src="Paris_edge.js" />
+  <require type="javascript" src="Paris_edgeActions.js" />
+  <require type="javascript" src="Paris_edgePreload.js" />
+  <require type="javascript" src="edge_includes/edge.1.0.0.min.js" />
+  <require type="javascript" src="edge_includes/jquery-1.7.1.min.js" />
+  <require type="javascript" src="edge_includes/jquery.easing.1.3.js" />
+  <require type="javascript" src="edge_includes/json2_min.js" />
+
+  <require type="image" src="images/Paris.jpg" />
+  <require type="image" src="images/Poster.png" />
+  <require type="image" src="images/start.png" />
+
+  <require type="folder" src="edge_includes" />
+  <require type="folder" src="images" />
+
+
+  <content><![CDATA[
+    <div class="EDGE-434326268"></div>
+  ]]></content>
+   
+  <properties name="Properties">
+    <property name="default-width" defaultValue="480" hidden="true"/>
+    <property name="default-height" defaultValue="800" hidden="true"/>
+    <property name="resizable" defaultValue="false" hidden="true"/>
+    <property name="use-chrome-frame" defaultValue="false" hidden="true"/>
+    <property name="chrome-frame-installer" defaultValue="" hidden="true"/>
+    
+    
+    <property name="html-page" defaultValue="Paris.html" hidden="true"/>
+  </properties>
+
+</widget>

@@ -1,0 +1,66 @@
+{
+
+	"PubChromeFrameInstallerPrompt":"none",
+	"PubUseChromeFrameInstaller":"false",
+	"PubWebDir":"/Users/tomgreen/Desktop/Muse/MuseSite/",
+	"ModelData":"{\
+\"stage\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+            \"ElementKeyframes\": {\
+                \"${_Church}\": [], \
+                \"${_Stage}\": [], \
+                \"${_Cafe}\": [], \
+                \"${_Street}\": []\
+            }\
+      }\
+   }},\
+\"Preloader\": {\
+   \"timelines\": {\
+\
+   }},\
+\"Down-level\": {\
+   \"timelines\": {\
+\
+   }}\
+}",
+	"PosterImagePath":"images/Poster.png",
+	"pref__general__FilterNonAnimatedElements":"false",
+	"viewStartMs":"-25",
+	"pref__general__AutoKeyframePropertiesArmed":"false",
+	"symbol_stage":{
+		"element_${_Cafe}":{
+			"timelineColor2":"0x81aa62",
+			"timelineColor3":"0x5b6c4d",
+			"animationEnabled":"true",
+			"timelineColor":"0x91c767"},
+		"dummyStageParentWidth":"950px",
+		"defaultStageParentHeight":"300px",
+		"dummyStageParentHeight":"300px",
+		"defaultStageParentWidth":"950px",
+		"element_${_Church}":{
+			"timelineColor2":"0x4fa275",
+			"timelineColor3":"0x456a55",
+			"animationEnabled":"true",
+			"timelineColor":"0x50bd82"},
+		"element_${_Stage}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"timelineColor":"0xeedf79"},
+		"element_${_Street}":{
+			"timelineColor2":"0x1aa38f",
+			"timelineColor3":"0x2a6a61",
+			"animationEnabled":"true",
+			"timelineColor":"0x00bda4"}},
+	"PubWeb":"false",
+	"CompZoomFactor":"100",
+	"viewStartY":"0",
+	"pixelsPerMs":"0.2",
+	"StageZoomFactor":"54",
+	"nextElementColorIndex":"5",
+	"usedBOM":"false",
+	"PubDPS":"true",
+	"stage-Default Timeline_playhead_ms":"0",
+	"TransitionIdCounter":"23",
+	"HTMLFileName":"ContentRotate.html",
+	"PosterCapturePos":"0"}

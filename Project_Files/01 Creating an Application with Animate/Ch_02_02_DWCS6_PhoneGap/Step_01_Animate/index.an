@@ -1,0 +1,245 @@
+{
+
+	"PubChromeFrameInstallerPrompt":"none",
+	"pref__general__AutoKeyframeProperties":"false",
+	"PubWebDir":"/Users/tomgreen/Desktop/Ch_02_02_DWCS6_PhoneGap/Step_03_ DreamweaverCS6/",
+	"ModelData":"{\
+\"stage\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+            \"ElementKeyframes\": {\
+                \"${_Maps}\": [], \
+                \"${_Explore}\": [], \
+                \"${_Mapbase}\": [], \
+                \"${_Paris}\": [], \
+                \"${_MapStrip}\": [], \
+                \"${_Visit}\": [], \
+                \"${_TourBase}\": [], \
+                \"${_start}\": [], \
+                \"${_Hotels}\": [], \
+                \"${_HotelBase}\": [], \
+                \"${_HotelStrip}\": [], \
+                \"${_Tours}\": [], \
+                \"${_HeadBG}\": [], \
+                \"${_TourStrip}\": []\
+            }\
+      }\
+   }},\
+\"Preloader\": {\
+   \"timelines\": {\
+\
+   }},\
+\"Down-level\": {\
+   \"timelines\": {\
+\
+   }}\
+}",
+	"PubDPSName":"Paris",
+	"Tour-Default Timeline_playhead_ms":"0",
+	"PosterImagePath":"images/Poster.png",
+	"HTMLFileName":"index.html",
+	"TransitionIdCounter":"77",
+	"PubDPSDir":"/Users/tomgreen/Desktop/Ch_02_02_DWCS6_PhoneGap/Step_02_Publish/",
+	"StageZoomFactor":"50",
+	"PubUseChromeFrameInstaller":"false",
+	"symbol_Tour":{
+		"element_${_BaseCopy2}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"timelineColor":"0xeedf79"},
+		"element_${_MapsCopy2}":{
+			"timelineColor2":"0xd8b467",
+			"timelineColor3":"0x81714f",
+			"timelineColor":"0xffd46d"}},
+	"pref__general__AutoKeyframePropertiesArmed":"false",
+	"nextElementColorIndex":"7",
+	"symbol_stage":{
+		"element_${_Tour}":{
+			"epOpened":"true",
+			"timelineColor3":"0x7e4b52",
+			"timelineColor":"0xfb657a",
+			"timelineTreeOpened":"false",
+			"animationEnabled":"false",
+			"timelineColor2":"0xd35d6e"},
+		"dummyStageParentHeight":"800px",
+		"element_${_Visit}":{
+			"timelineColor2":"0x1aa38f",
+			"timelineColor3":"0x2a6a61",
+			"timelineColor":"0x00bda4",
+			"timelineTreeOpened":"false",
+			"animationEnabled":"true",
+			"invisible":"false"},
+		"element_${_Maps}":{
+			"timelineColor2":"0x168c84",
+			"timelineColor3":"0x2a605c",
+			"timelineColor":"0x00a096",
+			"timelineTreeOpened":"false",
+			"animationEnabled":"true"},
+		"element_${_Ellipse}":{
+			"timelineColor2":"0x5a558a",
+			"timelineColor3":"0x4a485e",
+			"animationEnabled":"false",
+			"timelineColor":"0x63599f"},
+		"element_${_Paris2}":{
+			"timelineColor2":"0x81aa62",
+			"timelineColor3":"0x5b6c4d",
+			"timelineColor":"0x91c767",
+			"locked":"false",
+			"animationEnabled":"false"},
+		"element_${_Rectangle}":{
+			"timelineColor2":"0xd35d6e",
+			"timelineColor3":"0x7e4b52",
+			"timelineColor":"0xfb657a",
+			"timelineTreeOpened":"false",
+			"animationEnabled":"false"},
+		"element_${_Button}":{
+			"timelineColor2":"0xba5b89",
+			"timelineColor3":"0x734a5f",
+			"timelineColor":"0xdb619d",
+			"timelineTreeOpened":"false",
+			"animationEnabled":"false",
+			"invisible":"false",
+			"epOpened":"true"},
+		"element_${_HotelStrip}":{
+			"timelineColor2":"0x4fa275",
+			"timelineColor3":"0x456a55",
+			"timelineColor":"0x50bd82",
+			"timelineTreeOpened":"false",
+			"animationEnabled":"true",
+			"invisible":"false",
+			"epOpened":"false"},
+		"element_${_Group5}":{
+			"timelineColor2":"0x168c84",
+			"timelineColor3":"0x2a605c",
+			"timelineColor":"0x00a096"},
+		"element_${_Hotel}":{
+			"epOpened":"true",
+			"timelineColor3":"0x295a6d",
+			"timelineColor":"0x008dc8",
+			"animationEnabled":"false",
+			"timelineColor2":"0x107faa"},
+		"defaultStageParentHeight":"800px",
+		"element_${_Hotels}":{
+			"timelineColor2":"0x4fa275",
+			"timelineColor3":"0x456a55",
+			"timelineColor":"0x50bd82",
+			"timelineTreeOpened":"false",
+			"animationEnabled":"true",
+			"invisible":"false"},
+		"dummyStageParentWidth":"480px",
+		"element_${_Explore}":{
+			"timelineColor2":"0x81aa62",
+			"timelineColor3":"0x5b6c4d",
+			"timelineColor":"0x91c767",
+			"timelineTreeOpened":"false",
+			"animationEnabled":"true"},
+		"element_${_Maps2}":{
+			"timelineColor2":"0x1095d2",
+			"timelineColor3":"0x29647e",
+			"timelineColor":"0x00a9fa",
+			"timelineTreeOpened":"false",
+			"animationEnabled":"false"},
+		"element_${_TourBG}":{
+			"timelineColor2":"0xd8b467",
+			"timelineColor3":"0x81714f",
+			"animationEnabled":"false",
+			"timelineColor":"0xffd46d"},
+		"element_${_TourStrip}":{
+			"epOpened":"false",
+			"timelineColor3":"0x2a6a61",
+			"timelineColor":"0x00bda4",
+			"timelineTreeOpened":"false",
+			"animationEnabled":"true",
+			"invisible":"false",
+			"timelineColor2":"0x1aa38f"},
+		"element_${_Map}":{
+			"epOpened":"true",
+			"timelineColor3":"0x29647e",
+			"timelineColor":"0x00a9fa",
+			"animationEnabled":"false",
+			"timelineColor2":"0x1095d2"},
+		"element_${_HotelBG}":{
+			"timelineColor2":"0xb099ce",
+			"timelineColor3":"0x70657c",
+			"animationEnabled":"false",
+			"timelineColor":"0xceaef4"},
+		"element_${_MapStrip}":{
+			"timelineColor2":"0x81aa62",
+			"timelineColor3":"0x5b6c4d",
+			"timelineColor":"0x91c767",
+			"timelineTreeOpened":"false",
+			"animationEnabled":"true",
+			"invisible":"false",
+			"epOpened":"false"},
+		"element_${_HeadBG}":{
+			"timelineColor2":"0x4fa275",
+			"timelineColor3":"0x456a55",
+			"invisible":"false",
+			"timelineColor":"0x50bd82"},
+		"element_${_TourText}":{
+			"timelineColor2":"0xba5b89",
+			"timelineColor3":"0x734a5f",
+			"animationEnabled":"false",
+			"timelineColor":"0xdb619d"},
+		"element_${_Tours}":{
+			"timelineColor2":"0x326a96",
+			"timelineColor3":"0x385063",
+			"timelineColor":"0x2f73ad",
+			"timelineTreeOpened":"false",
+			"animationEnabled":"true"},
+		"element_${_Mapbase}":{
+			"timelineColor2":"0x326a96",
+			"timelineColor3":"0x385063",
+			"timelineColor":"0x2f73ad",
+			"timelineTreeOpened":"false",
+			"animationEnabled":"true"},
+		"element_${_TourBase}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"timelineColor":"0xeedf79",
+			"timelineTreeOpened":"false",
+			"animationEnabled":"true"},
+		"element_${_HotelBase}":{
+			"timelineColor2":"0x1aa38f",
+			"timelineColor3":"0x2a6a61",
+			"timelineColor":"0x00bda4",
+			"timelineTreeOpened":"false",
+			"animationEnabled":"true"},
+		"element_${_Paris}":{
+			"timelineColor2":"0x326a96",
+			"timelineColor3":"0x385063",
+			"timelineColor":"0x2f73ad"},
+		"element_${_Text2Copy}":{
+			"timelineColor2":"0x5a558a",
+			"timelineColor3":"0x4a485e",
+			"animationEnabled":"false",
+			"timelineColor":"0x63599f"},
+		"defaultStageParentWidth":"480px",
+		"element_${_MapBG}":{
+			"timelineColor2":"0x168c84",
+			"timelineColor3":"0x2a605c",
+			"animationEnabled":"false",
+			"timelineColor":"0x00a096"},
+		"element_${_Stage}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"timelineTreeOpened":"false",
+			"timelineColor":"0xeedf79"},
+		"element_${_start}":{
+			"timelineColor2":"0xb099ce",
+			"timelineColor3":"0x70657c",
+			"timelineColor":"0xceaef4",
+			"timelineTreeOpened":"false",
+			"animationEnabled":"true"}},
+	"PubWeb":"false",
+	"CompZoomFactor":"100",
+	"viewStartY":"162",
+	"pixelsPerMs":"0.1952719542381",
+	"pref__general__FilterNonAnimatedElements":"false",
+	"PosterCapturePos":"500",
+	"usedBOM":"false",
+	"ShowRulers":"false",
+	"stage-Default Timeline_playhead_ms":"0",
+	"stage-Default Timeline_mark_ms":"-1",
+	"PubDPS":"true",
+	"pref__general__GenerateSmoothTransitions":"true"}
